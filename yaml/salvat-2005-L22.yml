@@ -1,0 +1,105 @@
+---
+object: card
+id: 18bf18f8-f9f1-47ba-86b4-06ae18a4e877
+oracle_id: bc71ebf6-2056-41f7-be35-b2e5c34afa99
+multiverse_ids: []
+tcgplayer_id: 261056
+name: Plains
+printed_name: Pianura
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/18bf18f8-f9f1-47ba-86b4-06ae18a4e877
+scryfall_uri: https://scryfall.com/card/psal/L22/it/pianura?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/8/18bf18f8-f9f1-47ba-86b4-06ae18a4e877.jpg?1562059992
+  normal: https://cards.scryfall.io/normal/front/1/8/18bf18f8-f9f1-47ba-86b4-06ae18a4e877.jpg?1562059992
+  large: https://cards.scryfall.io/large/front/1/8/18bf18f8-f9f1-47ba-86b4-06ae18a4e877.jpg?1562059992
+  png: https://cards.scryfall.io/png/front/1/8/18bf18f8-f9f1-47ba-86b4-06ae18a4e877.png?1562059992
+  art_crop: https://cards.scryfall.io/art_crop/front/1/8/18bf18f8-f9f1-47ba-86b4-06ae18a4e877.jpg?1562059992
+  border_crop: https://cards.scryfall.io/border_crop/front/1/8/18bf18f8-f9f1-47ba-86b4-06ae18a4e877.jpg?1562059992
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Plains
+oracle_text: "({T}: Add {W}.)"
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/18bf18f8-f9f1-47ba-86b4-06ae18a4e877/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints
+collector_number: L22
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rob Alexander
+artist_ids:
+- 35906871-6c78-4ab2-9ed1-e6792c8efb74
+illustration_id: 3a4dcd0d-b372-471a-a383-9866754fd56d
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Plains
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261056?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Plains&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

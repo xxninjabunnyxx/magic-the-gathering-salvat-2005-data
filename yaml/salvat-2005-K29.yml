@@ -1,0 +1,109 @@
+---
+object: card
+id: 58020835-22bb-4e42-991a-c146a3148fff
+oracle_id: c5dc5546-e9e5-4b5b-b812-5716d4bdee0e
+multiverse_ids: []
+tcgplayer_id: 261089
+name: Fangren Hunter
+printed_name: Cacciatore di Fangren
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/58020835-22bb-4e42-991a-c146a3148fff
+scryfall_uri: https://scryfall.com/card/psal/K29/it/cacciatore-di-fangren?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/8/58020835-22bb-4e42-991a-c146a3148fff.jpg?1562067689
+  normal: https://cards.scryfall.io/normal/front/5/8/58020835-22bb-4e42-991a-c146a3148fff.jpg?1562067689
+  large: https://cards.scryfall.io/large/front/5/8/58020835-22bb-4e42-991a-c146a3148fff.jpg?1562067689
+  png: https://cards.scryfall.io/png/front/5/8/58020835-22bb-4e42-991a-c146a3148fff.png?1562067689
+  art_crop: https://cards.scryfall.io/art_crop/front/5/8/58020835-22bb-4e42-991a-c146a3148fff.jpg?1562067689
+  border_crop: https://cards.scryfall.io/border_crop/front/5/8/58020835-22bb-4e42-991a-c146a3148fff.jpg?1562067689
+mana_cost: "{3}{G}{G}"
+cmc: 5.0
+type_line: Creature — Beast
+oracle_text: Trample
+power: '4'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/58020835-22bb-4e42-991a-c146a3148fff/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5dc5546-e9e5-4b5b-b812-5716d4bdee0e&unique=prints
+collector_number: K29
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Darrell Riche
+artist_ids:
+- 262c8e55-4efc-467b-a042-6f734b9d2e01
+illustration_id: 8926e5d3-6c15-4b58-ac16-06a60238fc8b
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 25017
+penny_rank: 12784
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fangren+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fangren+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fangren+Hunter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261089?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fangren+Hunter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fangren+Hunter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

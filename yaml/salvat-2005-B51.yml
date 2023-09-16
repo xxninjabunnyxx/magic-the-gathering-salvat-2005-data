@@ -1,0 +1,112 @@
+---
+object: card
+id: 198ba150-f3fb-48a7-8c3d-bcb6b263b0a2
+oracle_id: 8fbdca3a-7aa3-4b5a-98d7-9168856045ac
+multiverse_ids: []
+tcgplayer_id: 279080
+name: Selesnya Guildmage
+printed_name: Mago del Gremio Selesnya
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2
+scryfall_uri: https://scryfall.com/card/psal/B51/es/mago-del-gremio-selesnya?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2.jpg?1562060010
+  normal: https://cards.scryfall.io/normal/front/1/9/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2.jpg?1562060010
+  large: https://cards.scryfall.io/large/front/1/9/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2.jpg?1562060010
+  png: https://cards.scryfall.io/png/front/1/9/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2.png?1562060010
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2.jpg?1562060010
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2.jpg?1562060010
+mana_cost: "{G/W}{G/W}"
+cmc: 2.0
+type_line: Creature — Elf Wizard
+oracle_text: |-
+  {3}{G}: Create a 1/1 green Saproling creature token.
+  {3}{W}: Creatures you control get +1/+1 until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/198ba150-f3fb-48a7-8c3d-bcb6b263b0a2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8fbdca3a-7aa3-4b5a-98d7-9168856045ac&unique=prints
+collector_number: B51
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 01a0b84b-f9ff-49de-99a7-1da6c0204642
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 11926
+penny_rank: 4557
+prices:
+  usd: '19.99'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Selesnya+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Selesnya+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Selesnya+Guildmage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/279080?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Selesnya+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Selesnya+Guildmage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

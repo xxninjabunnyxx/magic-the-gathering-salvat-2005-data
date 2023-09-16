@@ -1,0 +1,108 @@
+---
+object: card
+id: d7845dba-7827-49a6-a534-5d0dc4bffb06
+oracle_id: a26f6958-9bc8-46f8-8ca7-7f55098e1291
+multiverse_ids: []
+tcgplayer_id: 264241
+name: Blinking Spirit
+printed_name: Espíritu titilante
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/d7845dba-7827-49a6-a534-5d0dc4bffb06
+scryfall_uri: https://scryfall.com/card/psal/C49/es/esp%C3%ADritu-titilante?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/7/d7845dba-7827-49a6-a534-5d0dc4bffb06.jpg?1562081619
+  normal: https://cards.scryfall.io/normal/front/d/7/d7845dba-7827-49a6-a534-5d0dc4bffb06.jpg?1562081619
+  large: https://cards.scryfall.io/large/front/d/7/d7845dba-7827-49a6-a534-5d0dc4bffb06.jpg?1562081619
+  png: https://cards.scryfall.io/png/front/d/7/d7845dba-7827-49a6-a534-5d0dc4bffb06.png?1562081619
+  art_crop: https://cards.scryfall.io/art_crop/front/d/7/d7845dba-7827-49a6-a534-5d0dc4bffb06.jpg?1562081619
+  border_crop: https://cards.scryfall.io/border_crop/front/d/7/d7845dba-7827-49a6-a534-5d0dc4bffb06.jpg?1562081619
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Spirit
+oracle_text: "{0}: Return Blinking Spirit to its owner's hand."
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d7845dba-7827-49a6-a534-5d0dc4bffb06/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa26f6958-9bc8-46f8-8ca7-7f55098e1291&unique=prints
+collector_number: C49
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Allen Williams
+artist_ids:
+- 8a56d854-b424-45ec-9262-e993a382a961
+illustration_id: c257897f-ad21-4482-bb4e-045b14e795c5
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 18233
+penny_rank: 11990
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blinking+Spirit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blinking+Spirit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blinking+Spirit
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/264241?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blinking+Spirit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blinking+Spirit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

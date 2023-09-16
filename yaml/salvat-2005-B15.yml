@@ -1,0 +1,111 @@
+---
+object: card
+id: 817b832d-2e4e-4ac4-bf80-8710c2627153
+oracle_id: ba310102-8272-4d64-a00b-9e7346cb5f46
+multiverse_ids: []
+tcgplayer_id: 261011
+name: Sylvan Messenger
+printed_name: Mensajera silvestre
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/817b832d-2e4e-4ac4-bf80-8710c2627153
+scryfall_uri: https://scryfall.com/card/psal/B15/es/mensajera-silvestre?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/1/817b832d-2e4e-4ac4-bf80-8710c2627153.jpg?1562072256
+  normal: https://cards.scryfall.io/normal/front/8/1/817b832d-2e4e-4ac4-bf80-8710c2627153.jpg?1562072256
+  large: https://cards.scryfall.io/large/front/8/1/817b832d-2e4e-4ac4-bf80-8710c2627153.jpg?1562072256
+  png: https://cards.scryfall.io/png/front/8/1/817b832d-2e4e-4ac4-bf80-8710c2627153.png?1562072256
+  art_crop: https://cards.scryfall.io/art_crop/front/8/1/817b832d-2e4e-4ac4-bf80-8710c2627153.jpg?1562072256
+  border_crop: https://cards.scryfall.io/border_crop/front/8/1/817b832d-2e4e-4ac4-bf80-8710c2627153.jpg?1562072256
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Elf
+oracle_text: |-
+  Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+  When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/817b832d-2e4e-4ac4-bf80-8710c2627153/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aba310102-8272-4d64-a00b-9e7346cb5f46&unique=prints
+collector_number: B15
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: 54916bb1-5a68-4e66-b6be-fa782315296c
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 5680
+penny_rank: 1277
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sylvan+Messenger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sylvan+Messenger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sylvan+Messenger
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261011?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sylvan+Messenger&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sylvan+Messenger&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

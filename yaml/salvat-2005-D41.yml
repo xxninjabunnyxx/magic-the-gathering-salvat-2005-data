@@ -1,0 +1,106 @@
+---
+object: card
+id: c7b75712-e0e8-4bb5-97d3-3280726afbe1
+oracle_id: 6cb8c627-6b2f-48a7-b2d9-8772defea560
+multiverse_ids: []
+name: Aphetto Dredging
+printed_name: Dragado de Afetto
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/c7b75712-e0e8-4bb5-97d3-3280726afbe1
+scryfall_uri: https://scryfall.com/card/psal/D41/es/dragado-de-afetto?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/7/c7b75712-e0e8-4bb5-97d3-3280726afbe1.jpg?1562079692
+  normal: https://cards.scryfall.io/normal/front/c/7/c7b75712-e0e8-4bb5-97d3-3280726afbe1.jpg?1562079692
+  large: https://cards.scryfall.io/large/front/c/7/c7b75712-e0e8-4bb5-97d3-3280726afbe1.jpg?1562079692
+  png: https://cards.scryfall.io/png/front/c/7/c7b75712-e0e8-4bb5-97d3-3280726afbe1.png?1562079692
+  art_crop: https://cards.scryfall.io/art_crop/front/c/7/c7b75712-e0e8-4bb5-97d3-3280726afbe1.jpg?1562079692
+  border_crop: https://cards.scryfall.io/border_crop/front/c/7/c7b75712-e0e8-4bb5-97d3-3280726afbe1.jpg?1562079692
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Return up to three target creature cards of the creature type of your
+  choice from your graveyard to your hand.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c7b75712-e0e8-4bb5-97d3-3280726afbe1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6cb8c627-6b2f-48a7-b2d9-8772defea560&unique=prints
+collector_number: D41
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Monte Michael Moore
+artist_ids:
+- a77227ad-26f9-40da-b0f2-664b5196cea0
+illustration_id: 45176904-2f9d-4ef1-a9c8-7a45887cc121
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 11542
+penny_rank: 6608
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aphetto+Dredging&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aphetto+Dredging&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aphetto+Dredging
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Aphetto+Dredging&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aphetto+Dredging&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aphetto+Dredging&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

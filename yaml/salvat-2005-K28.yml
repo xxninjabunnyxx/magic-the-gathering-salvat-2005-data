@@ -1,0 +1,107 @@
+---
+object: card
+id: 87e0c330-6b96-430d-8cb7-2a48ec5c832d
+oracle_id: 8539f295-5d58-4436-a73a-b9277c4c7795
+multiverse_ids: []
+tcgplayer_id: 260921
+name: Rampant Growth
+printed_name: Crescita Inarrestabile
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/87e0c330-6b96-430d-8cb7-2a48ec5c832d
+scryfall_uri: https://scryfall.com/card/psal/K28/it/crescita-inarrestabile?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/7/87e0c330-6b96-430d-8cb7-2a48ec5c832d.jpg?1562072504
+  normal: https://cards.scryfall.io/normal/front/8/7/87e0c330-6b96-430d-8cb7-2a48ec5c832d.jpg?1562072504
+  large: https://cards.scryfall.io/large/front/8/7/87e0c330-6b96-430d-8cb7-2a48ec5c832d.jpg?1562072504
+  png: https://cards.scryfall.io/png/front/8/7/87e0c330-6b96-430d-8cb7-2a48ec5c832d.png?1562072504
+  art_crop: https://cards.scryfall.io/art_crop/front/8/7/87e0c330-6b96-430d-8cb7-2a48ec5c832d.jpg?1562072504
+  border_crop: https://cards.scryfall.io/border_crop/front/8/7/87e0c330-6b96-430d-8cb7-2a48ec5c832d.jpg?1562072504
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Search your library for a basic land card, put that card onto the battlefield
+  tapped, then shuffle.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/87e0c330-6b96-430d-8cb7-2a48ec5c832d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8539f295-5d58-4436-a73a-b9277c4c7795&unique=prints
+collector_number: K28
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 6069651f-1834-4396-8740-37e7b4a57176
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 26
+penny_rank: 388
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rampant+Growth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rampant+Growth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rampant+Growth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/260921?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rampant+Growth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rampant+Growth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

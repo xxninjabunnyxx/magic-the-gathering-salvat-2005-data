@@ -1,0 +1,112 @@
+---
+object: card
+id: 2377e97f-6c61-4f8b-9562-9d26bd40356d
+oracle_id: b9ed0081-7eda-4ff9-ac2d-bcdc29a22d9f
+multiverse_ids: []
+tcgplayer_id: 278428
+name: Belltower Sphinx
+printed_name: Esfinge del campanario
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/2377e97f-6c61-4f8b-9562-9d26bd40356d
+scryfall_uri: https://scryfall.com/card/psal/H14/es/esfinge-del-campanario?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/3/2377e97f-6c61-4f8b-9562-9d26bd40356d.jpg?1562061281
+  normal: https://cards.scryfall.io/normal/front/2/3/2377e97f-6c61-4f8b-9562-9d26bd40356d.jpg?1562061281
+  large: https://cards.scryfall.io/large/front/2/3/2377e97f-6c61-4f8b-9562-9d26bd40356d.jpg?1562061281
+  png: https://cards.scryfall.io/png/front/2/3/2377e97f-6c61-4f8b-9562-9d26bd40356d.png?1562061281
+  art_crop: https://cards.scryfall.io/art_crop/front/2/3/2377e97f-6c61-4f8b-9562-9d26bd40356d.jpg?1562061281
+  border_crop: https://cards.scryfall.io/border_crop/front/2/3/2377e97f-6c61-4f8b-9562-9d26bd40356d.jpg?1562061281
+mana_cost: "{4}{U}"
+cmc: 5.0
+type_line: Creature — Sphinx
+oracle_text: |-
+  Flying
+  Whenever a source deals damage to Belltower Sphinx, that source's controller mills that many cards.
+power: '2'
+toughness: '5'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Mill
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2377e97f-6c61-4f8b-9562-9d26bd40356d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9ed0081-7eda-4ff9-ac2d-bcdc29a22d9f&unique=prints
+collector_number: H14
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jim Nelson
+artist_ids:
+- aa9f64d1-29e1-4c82-877e-44c18183f40b
+illustration_id: f11ab2b5-8326-42e7-b086-4c1b486a93e1
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 14984
+penny_rank: 8246
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Belltower+Sphinx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Belltower+Sphinx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Belltower+Sphinx
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/278428?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Belltower+Sphinx&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Belltower+Sphinx&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

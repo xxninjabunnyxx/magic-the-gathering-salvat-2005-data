@@ -1,0 +1,107 @@
+---
+object: card
+id: f5059e2d-071e-4df5-87a1-ceee970086be
+oracle_id: ff19f10c-777c-4688-b1ab-99e53afaf629
+multiverse_ids: []
+tcgplayer_id: 261073
+name: Wirewood Pride
+printed_name: Orgullo de Wirewood
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/f5059e2d-071e-4df5-87a1-ceee970086be
+scryfall_uri: https://scryfall.com/card/psal/B44/es/orgullo-de-wirewood?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/5/f5059e2d-071e-4df5-87a1-ceee970086be.jpg?1562085665
+  normal: https://cards.scryfall.io/normal/front/f/5/f5059e2d-071e-4df5-87a1-ceee970086be.jpg?1562085665
+  large: https://cards.scryfall.io/large/front/f/5/f5059e2d-071e-4df5-87a1-ceee970086be.jpg?1562085665
+  png: https://cards.scryfall.io/png/front/f/5/f5059e2d-071e-4df5-87a1-ceee970086be.png?1562085665
+  art_crop: https://cards.scryfall.io/art_crop/front/f/5/f5059e2d-071e-4df5-87a1-ceee970086be.jpg?1562085665
+  border_crop: https://cards.scryfall.io/border_crop/front/f/5/f5059e2d-071e-4df5-87a1-ceee970086be.jpg?1562085665
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Target creature gets +X/+X until end of turn, where X is the number of
+  Elves on the battlefield.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f5059e2d-071e-4df5-87a1-ceee970086be/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff19f10c-777c-4688-b1ab-99e53afaf629&unique=prints
+collector_number: B44
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Dorman
+artist_ids:
+- 9235458b-ce92-45bd-a430-a72ecd8e6176
+illustration_id: 6bb0733b-e39b-4ace-9786-0e9a9ddc42e0
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 9467
+penny_rank: 8846
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wirewood+Pride&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wirewood+Pride&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wirewood+Pride
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261073?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wirewood+Pride&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wirewood+Pride&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

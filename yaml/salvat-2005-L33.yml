@@ -1,0 +1,112 @@
+---
+object: card
+id: c9a4dba3-a1ac-4367-803b-a1b1000c2fd5
+oracle_id: 00ef1c55-dea1-4564-bd57-66de86cba4df
+multiverse_ids: []
+tcgplayer_id: 261282
+name: Selesnya Sanctuary
+printed_name: Santuario di Selesnya
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5
+scryfall_uri: https://scryfall.com/card/psal/L33/it/santuario-di-selesnya?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/9/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5.jpg?1562080147
+  normal: https://cards.scryfall.io/normal/front/c/9/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5.jpg?1562080147
+  large: https://cards.scryfall.io/large/front/c/9/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5.jpg?1562080147
+  png: https://cards.scryfall.io/png/front/c/9/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5.png?1562080147
+  art_crop: https://cards.scryfall.io/art_crop/front/c/9/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5.jpg?1562080147
+  border_crop: https://cards.scryfall.io/border_crop/front/c/9/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5.jpg?1562080147
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Selesnya Sanctuary enters the battlefield tapped.
+  When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
+  {T}: Add {G}{W}.
+colors: []
+color_identity:
+- G
+- W
+keywords: []
+produced_mana:
+- G
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c9a4dba3-a1ac-4367-803b-a1b1000c2fd5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00ef1c55-dea1-4564-bd57-66de86cba4df&unique=prints
+collector_number: L33
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Avon
+artist_ids:
+- 798f3932-30e0-4420-aa3f-db4d613f89ca
+illustration_id: 5804bf72-4037-42b9-b2dd-fe10501e99ff
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 381
+penny_rank: 1450
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Selesnya+Sanctuary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Selesnya+Sanctuary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Selesnya+Sanctuary
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261282?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Selesnya+Sanctuary&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Selesnya+Sanctuary&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

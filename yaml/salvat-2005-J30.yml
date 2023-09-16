@@ -1,0 +1,106 @@
+---
+object: card
+id: ddc48187-511d-49ed-96be-3a059c6fdb43
+oracle_id: 424c6f5e-b386-47e9-b3fe-25b263097d40
+multiverse_ids: []
+tcgplayer_id: 261022
+name: Sprout
+printed_name: Germinar
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/ddc48187-511d-49ed-96be-3a059c6fdb43
+scryfall_uri: https://scryfall.com/card/psal/J30/es/germinar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/ddc48187-511d-49ed-96be-3a059c6fdb43.jpg?1562082568
+  normal: https://cards.scryfall.io/normal/front/d/d/ddc48187-511d-49ed-96be-3a059c6fdb43.jpg?1562082568
+  large: https://cards.scryfall.io/large/front/d/d/ddc48187-511d-49ed-96be-3a059c6fdb43.jpg?1562082568
+  png: https://cards.scryfall.io/png/front/d/d/ddc48187-511d-49ed-96be-3a059c6fdb43.png?1562082568
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/ddc48187-511d-49ed-96be-3a059c6fdb43.jpg?1562082568
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/ddc48187-511d-49ed-96be-3a059c6fdb43.jpg?1562082568
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Create a 1/1 green Saproling creature token.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ddc48187-511d-49ed-96be-3a059c6fdb43/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A424c6f5e-b386-47e9-b3fe-25b263097d40&unique=prints
+collector_number: J30
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony S. Waters
+artist_ids:
+- f009de11-3c8d-4663-b996-ca0c3e997fad
+illustration_id: f6b8954f-6ed1-47fb-898c-1d3ba88c9cd6
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 14308
+penny_rank: 12068
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sprout&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sprout&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sprout
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261022?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sprout&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sprout&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

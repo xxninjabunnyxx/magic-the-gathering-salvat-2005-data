@@ -1,0 +1,110 @@
+---
+object: card
+id: 7074d32f-c2ff-4a15-abe8-904320b1c35c
+oracle_id: 8f867a2c-f17b-4608-bca7-5b49d1387bc7
+multiverse_ids: []
+tcgplayer_id: 264237
+name: Yuki-Onna
+printed_name: Yuki-Onna
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/7074d32f-c2ff-4a15-abe8-904320b1c35c
+scryfall_uri: https://scryfall.com/card/psal/C41/es/yuki-onna?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/0/7074d32f-c2ff-4a15-abe8-904320b1c35c.jpg?1562070794
+  normal: https://cards.scryfall.io/normal/front/7/0/7074d32f-c2ff-4a15-abe8-904320b1c35c.jpg?1562070794
+  large: https://cards.scryfall.io/large/front/7/0/7074d32f-c2ff-4a15-abe8-904320b1c35c.jpg?1562070794
+  png: https://cards.scryfall.io/png/front/7/0/7074d32f-c2ff-4a15-abe8-904320b1c35c.png?1562070794
+  art_crop: https://cards.scryfall.io/art_crop/front/7/0/7074d32f-c2ff-4a15-abe8-904320b1c35c.jpg?1562070794
+  border_crop: https://cards.scryfall.io/border_crop/front/7/0/7074d32f-c2ff-4a15-abe8-904320b1c35c.jpg?1562070794
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Spirit
+oracle_text: |-
+  When Yuki-Onna enters the battlefield, destroy target artifact.
+  Whenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner's hand.
+power: '3'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7074d32f-c2ff-4a15-abe8-904320b1c35c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8f867a2c-f17b-4608-bca7-5b49d1387bc7&unique=prints
+collector_number: C41
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Hideaki Takamura
+artist_ids:
+- 49b6270b-1b28-4e03-b503-522f97dc3a78
+illustration_id: 78606bff-f4e6-4712-b731-a0b1620034e3
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 14241
+penny_rank: 12931
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Yuki-Onna&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Yuki-Onna&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Yuki-Onna
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/264237?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Yuki-Onna&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Yuki-Onna&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

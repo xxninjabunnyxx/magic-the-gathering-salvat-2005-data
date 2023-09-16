@@ -1,0 +1,105 @@
+---
+object: card
+id: '0818334d-c8f4-4bc9-8ea8-b01109161eb0'
+oracle_id: a9d288b8-cdc1-4e55-a0c9-d6edfc95e65d
+multiverse_ids: []
+name: Shock
+printed_name: Choque
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/0818334d-c8f4-4bc9-8ea8-b01109161eb0
+scryfall_uri: https://scryfall.com/card/psal/I54/es/choque?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/8/0818334d-c8f4-4bc9-8ea8-b01109161eb0.jpg?1562058102
+  normal: https://cards.scryfall.io/normal/front/0/8/0818334d-c8f4-4bc9-8ea8-b01109161eb0.jpg?1562058102
+  large: https://cards.scryfall.io/large/front/0/8/0818334d-c8f4-4bc9-8ea8-b01109161eb0.jpg?1562058102
+  png: https://cards.scryfall.io/png/front/0/8/0818334d-c8f4-4bc9-8ea8-b01109161eb0.png?1562058102
+  art_crop: https://cards.scryfall.io/art_crop/front/0/8/0818334d-c8f4-4bc9-8ea8-b01109161eb0.jpg?1562058102
+  border_crop: https://cards.scryfall.io/border_crop/front/0/8/0818334d-c8f4-4bc9-8ea8-b01109161eb0.jpg?1562058102
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Shock deals 2 damage to any target.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0818334d-c8f4-4bc9-8ea8-b01109161eb0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa9d288b8-cdc1-4e55-a0c9-d6edfc95e65d&unique=prints
+collector_number: I54
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: 50db0b2e-d125-4b77-82f6-03944f9b515b
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 2992
+penny_rank: 1058
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shock&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shock&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shock
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Shock&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shock&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shock&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

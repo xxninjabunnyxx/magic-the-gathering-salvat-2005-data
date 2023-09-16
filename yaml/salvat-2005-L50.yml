@@ -1,0 +1,109 @@
+---
+object: card
+id: a022c1ef-5714-42e3-b87a-911867ff1f3e
+oracle_id: fe8b7835-a9b2-4a8d-964a-471430f1d143
+multiverse_ids: []
+tcgplayer_id: 261274
+name: Grifter's Blade
+printed_name: Lama del Biscazziere
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/a022c1ef-5714-42e3-b87a-911867ff1f3e
+scryfall_uri: https://scryfall.com/card/psal/L50/it/lama-del-biscazziere?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a022c1ef-5714-42e3-b87a-911867ff1f3e.jpg?1562075387
+  normal: https://cards.scryfall.io/normal/front/a/0/a022c1ef-5714-42e3-b87a-911867ff1f3e.jpg?1562075387
+  large: https://cards.scryfall.io/large/front/a/0/a022c1ef-5714-42e3-b87a-911867ff1f3e.jpg?1562075387
+  png: https://cards.scryfall.io/png/front/a/0/a022c1ef-5714-42e3-b87a-911867ff1f3e.png?1562075387
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a022c1ef-5714-42e3-b87a-911867ff1f3e.jpg?1562075387
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a022c1ef-5714-42e3-b87a-911867ff1f3e.jpg?1562075387
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Flash
+  As Grifter's Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature.
+  Equipped creature gets +1/+1.
+  Equip {1}
+colors: []
+color_identity: []
+keywords:
+- Equip
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a022c1ef-5714-42e3-b87a-911867ff1f3e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afe8b7835-a9b2-4a8d-964a-471430f1d143&unique=prints
+collector_number: L50
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alan Pollack
+artist_ids:
+- 70c20ea3-5ad6-4082-a337-6e994ae5828e
+illustration_id: 543ea1da-8e5c-4efd-977b-b1e7096beeaf
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 21901
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Grifter%27s+Blade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Grifter%27s+Blade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Grifter%27s+Blade
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261274?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Grifter%27s+Blade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grifter%27s+Blade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

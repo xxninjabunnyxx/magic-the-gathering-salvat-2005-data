@@ -1,0 +1,110 @@
+---
+object: card
+id: f0f0256a-0d65-4d70-b610-db6403977484
+oracle_id: a2daaf32-dbfe-4618-892e-0da24f63a44a
+multiverse_ids: []
+name: Angel of Mercy
+printed_name: Ángel de piedad
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/f0f0256a-0d65-4d70-b610-db6403977484
+scryfall_uri: https://scryfall.com/card/psal/G38/es/%C3%A1ngel-de-piedad?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/0/f0f0256a-0d65-4d70-b610-db6403977484.jpg?1562085175
+  normal: https://cards.scryfall.io/normal/front/f/0/f0f0256a-0d65-4d70-b610-db6403977484.jpg?1562085175
+  large: https://cards.scryfall.io/large/front/f/0/f0f0256a-0d65-4d70-b610-db6403977484.jpg?1562085175
+  png: https://cards.scryfall.io/png/front/f/0/f0f0256a-0d65-4d70-b610-db6403977484.png?1562085175
+  art_crop: https://cards.scryfall.io/art_crop/front/f/0/f0f0256a-0d65-4d70-b610-db6403977484.jpg?1562085175
+  border_crop: https://cards.scryfall.io/border_crop/front/f/0/f0f0256a-0d65-4d70-b610-db6403977484.jpg?1562085175
+mana_cost: "{4}{W}"
+cmc: 5.0
+type_line: Creature — Angel
+oracle_text: |-
+  Flying
+  When Angel of Mercy enters the battlefield, you gain 3 life.
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f0f0256a-0d65-4d70-b610-db6403977484/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa2daaf32-dbfe-4618-892e-0da24f63a44a&unique=prints
+collector_number: G38
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: fff6302b-dc54-4f17-8160-63e7602a7624
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 16213
+penny_rank: 12400
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Angel+of+Mercy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Angel+of+Mercy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Angel+of+Mercy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Angel+of+Mercy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angel+of+Mercy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Angel+of+Mercy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

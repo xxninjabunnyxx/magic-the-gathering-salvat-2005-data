@@ -1,0 +1,110 @@
+---
+object: card
+id: 34da1276-5321-4781-832e-4daf3e13ca16
+oracle_id: 2b934761-5720-477b-94b7-d1d91dc581a6
+multiverse_ids: []
+tcgplayer_id: 258341
+name: Marrow-Gnawer
+printed_name: Roemédulas
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/34da1276-5321-4781-832e-4daf3e13ca16
+scryfall_uri: https://scryfall.com/card/psal/A1/es/roem%C3%A9dulas?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/34da1276-5321-4781-832e-4daf3e13ca16.jpg?1562063593
+  normal: https://cards.scryfall.io/normal/front/3/4/34da1276-5321-4781-832e-4daf3e13ca16.jpg?1562063593
+  large: https://cards.scryfall.io/large/front/3/4/34da1276-5321-4781-832e-4daf3e13ca16.jpg?1562063593
+  png: https://cards.scryfall.io/png/front/3/4/34da1276-5321-4781-832e-4daf3e13ca16.png?1562063593
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/34da1276-5321-4781-832e-4daf3e13ca16.jpg?1562063593
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/34da1276-5321-4781-832e-4daf3e13ca16.jpg?1562063593
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Legendary Creature — Rat Rogue
+oracle_text: |-
+  All Rats have fear.
+  {T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control.
+power: '2'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/34da1276-5321-4781-832e-4daf3e13ca16/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b934761-5720-477b-94b7-d1d91dc581a6&unique=prints
+collector_number: A1
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne Reynolds
+artist_ids:
+- afc47cec-3ccc-404e-a8c6-4d83dd504271
+illustration_id: 5b62b844-00b4-474b-838f-2d7f33e3401a
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 3577
+penny_rank: 8651
+prices:
+  usd: '10.31'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Marrow-Gnawer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Marrow-Gnawer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Marrow-Gnawer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258341?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Marrow-Gnawer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Marrow-Gnawer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

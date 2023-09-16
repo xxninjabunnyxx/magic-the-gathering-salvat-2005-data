@@ -1,0 +1,111 @@
+---
+object: card
+id: 3c16e4ae-d221-45e5-acc8-4dc15927c407
+oracle_id: 5326381e-e5e7-4c3e-9565-4837b3ffaec0
+multiverse_ids: []
+tcgplayer_id: 258428
+name: Skullsnatcher
+printed_name: Secuestracráneos
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/3c16e4ae-d221-45e5-acc8-4dc15927c407
+scryfall_uri: https://scryfall.com/card/psal/A43/es/secuestracr%C3%A1neos?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/c/3c16e4ae-d221-45e5-acc8-4dc15927c407.jpg?1562064543
+  normal: https://cards.scryfall.io/normal/front/3/c/3c16e4ae-d221-45e5-acc8-4dc15927c407.jpg?1562064543
+  large: https://cards.scryfall.io/large/front/3/c/3c16e4ae-d221-45e5-acc8-4dc15927c407.jpg?1562064543
+  png: https://cards.scryfall.io/png/front/3/c/3c16e4ae-d221-45e5-acc8-4dc15927c407.png?1562064543
+  art_crop: https://cards.scryfall.io/art_crop/front/3/c/3c16e4ae-d221-45e5-acc8-4dc15927c407.jpg?1562064543
+  border_crop: https://cards.scryfall.io/border_crop/front/3/c/3c16e4ae-d221-45e5-acc8-4dc15927c407.jpg?1562064543
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Creature — Rat Ninja
+oracle_text: |-
+  Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+  Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.
+power: '2'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Ninjutsu
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3c16e4ae-d221-45e5-acc8-4dc15927c407/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5326381e-e5e7-4c3e-9565-4837b3ffaec0&unique=prints
+collector_number: A43
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: 7974e474-238e-4fa2-b8e0-b087c3dc884d
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 3648
+penny_rank: 8678
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Skullsnatcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Skullsnatcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Skullsnatcher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258428?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skullsnatcher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skullsnatcher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,107 @@
+---
+object: card
+id: ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12
+oracle_id: b3f9da94-c822-49b8-a1fc-be82189206af
+multiverse_ids: []
+tcgplayer_id: 278754
+name: Three Dreams
+printed_name: Tres sueños
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12
+scryfall_uri: https://scryfall.com/card/psal/G49/es/tres-sue%C3%B1os?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12.jpg?1562082570
+  normal: https://cards.scryfall.io/normal/front/d/d/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12.jpg?1562082570
+  large: https://cards.scryfall.io/large/front/d/d/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12.jpg?1562082570
+  png: https://cards.scryfall.io/png/front/d/d/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12.png?1562082570
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12.jpg?1562082570
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12.jpg?1562082570
+mana_cost: "{4}{W}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Search your library for up to three Aura cards with different names,
+  reveal them, put them into your hand, then shuffle.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ddd4bbfb-80c9-4bdd-86c6-96fba00d3d12/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab3f9da94-c822-49b8-a1fc-be82189206af&unique=prints
+collector_number: G49
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Shishizaru
+artist_ids:
+- f993a598-f922-49c8-bb03-6beb3b780b0d
+illustration_id: '084b1949-2f57-478b-a7d2-486df478df9f'
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 5882
+penny_rank: 8892
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Three+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Three+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Three+Dreams
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/278754?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Three+Dreams&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Three+Dreams&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

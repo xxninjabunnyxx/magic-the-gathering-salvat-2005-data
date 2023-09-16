@@ -1,0 +1,109 @@
+---
+object: card
+id: aec2b3f1-715e-4de4-9bf0-d309afba75ec
+oracle_id: e9db79fd-a5b6-4d59-9176-e713e2e9c708
+multiverse_ids: []
+tcgplayer_id: 261615
+name: Aether Shockwave
+printed_name: Onda expansiva de éter
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/aec2b3f1-715e-4de4-9bf0-d309afba75ec
+scryfall_uri: https://scryfall.com/card/psal/C26/es/onda-expansiva-de-%C3%A9ter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/e/aec2b3f1-715e-4de4-9bf0-d309afba75ec.jpg?1562077062
+  normal: https://cards.scryfall.io/normal/front/a/e/aec2b3f1-715e-4de4-9bf0-d309afba75ec.jpg?1562077062
+  large: https://cards.scryfall.io/large/front/a/e/aec2b3f1-715e-4de4-9bf0-d309afba75ec.jpg?1562077062
+  png: https://cards.scryfall.io/png/front/a/e/aec2b3f1-715e-4de4-9bf0-d309afba75ec.png?1562077062
+  art_crop: https://cards.scryfall.io/art_crop/front/a/e/aec2b3f1-715e-4de4-9bf0-d309afba75ec.jpg?1562077062
+  border_crop: https://cards.scryfall.io/border_crop/front/a/e/aec2b3f1-715e-4de4-9bf0-d309afba75ec.jpg?1562077062
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Instant
+oracle_text: |-
+  Choose one —
+  • Tap all Spirits.
+  • Tap all non-Spirit creatures.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aec2b3f1-715e-4de4-9bf0-d309afba75ec/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9db79fd-a5b6-4d59-9176-e713e2e9c708&unique=prints
+collector_number: C26
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Stephen Tappin
+artist_ids:
+- bb596c13-9c39-4b11-8a7b-c88944826e70
+illustration_id: 12ea1550-5e7f-409e-add9-250363c5d0a6
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 11591
+penny_rank: 9047
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aether+Shockwave&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aether+Shockwave&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aether+Shockwave
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261615?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aether+Shockwave&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aether+Shockwave&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

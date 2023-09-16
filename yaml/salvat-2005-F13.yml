@@ -1,0 +1,110 @@
+---
+object: card
+id: e00bddd6-41da-4b5f-84da-43ebde4f3a2a
+oracle_id: d0b17b41-bf8e-4ffd-9301-8db745b01112
+multiverse_ids: []
+tcgplayer_id: 278503
+name: Helldozer
+printed_name: Excavador infernal
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/e00bddd6-41da-4b5f-84da-43ebde4f3a2a
+scryfall_uri: https://scryfall.com/card/psal/F13/es/excavador-infernal?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/0/e00bddd6-41da-4b5f-84da-43ebde4f3a2a.jpg?1562083029
+  normal: https://cards.scryfall.io/normal/front/e/0/e00bddd6-41da-4b5f-84da-43ebde4f3a2a.jpg?1562083029
+  large: https://cards.scryfall.io/large/front/e/0/e00bddd6-41da-4b5f-84da-43ebde4f3a2a.jpg?1562083029
+  png: https://cards.scryfall.io/png/front/e/0/e00bddd6-41da-4b5f-84da-43ebde4f3a2a.png?1562083029
+  art_crop: https://cards.scryfall.io/art_crop/front/e/0/e00bddd6-41da-4b5f-84da-43ebde4f3a2a.jpg?1562083029
+  border_crop: https://cards.scryfall.io/border_crop/front/e/0/e00bddd6-41da-4b5f-84da-43ebde4f3a2a.jpg?1562083029
+mana_cost: "{3}{B}{B}{B}"
+cmc: 6.0
+type_line: Creature — Zombie Giant
+oracle_text: "{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap
+  Helldozer."
+power: '6'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e00bddd6-41da-4b5f-84da-43ebde4f3a2a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0b17b41-bf8e-4ffd-9301-8db745b01112&unique=prints
+collector_number: F13
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros & Gabor Szikszai
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+- 44c3877f-8771-43dc-9e40-f4c765f59d2e
+illustration_id: 1a1e1f90-c04f-4c5a-b3e2-6023af8e561c
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 14161
+penny_rank: 10777
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Helldozer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Helldozer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Helldozer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/278503?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Helldozer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Helldozer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

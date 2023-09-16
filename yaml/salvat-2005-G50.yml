@@ -1,0 +1,110 @@
+---
+object: card
+id: f8943023-d6cf-4787-be3e-cb0d85636fb6
+oracle_id: 3c7ffc6c-88be-4127-a673-fba8c1aa5fa1
+multiverse_ids: []
+name: Auratouched Mage
+printed_name: Mago auraencantado
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/f8943023-d6cf-4787-be3e-cb0d85636fb6
+scryfall_uri: https://scryfall.com/card/psal/G50/es/mago-auraencantado?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/8/f8943023-d6cf-4787-be3e-cb0d85636fb6.jpg?1562086146
+  normal: https://cards.scryfall.io/normal/front/f/8/f8943023-d6cf-4787-be3e-cb0d85636fb6.jpg?1562086146
+  large: https://cards.scryfall.io/large/front/f/8/f8943023-d6cf-4787-be3e-cb0d85636fb6.jpg?1562086146
+  png: https://cards.scryfall.io/png/front/f/8/f8943023-d6cf-4787-be3e-cb0d85636fb6.png?1562086146
+  art_crop: https://cards.scryfall.io/art_crop/front/f/8/f8943023-d6cf-4787-be3e-cb0d85636fb6.jpg?1562086146
+  border_crop: https://cards.scryfall.io/border_crop/front/f/8/f8943023-d6cf-4787-be3e-cb0d85636fb6.jpg?1562086146
+mana_cost: "{5}{W}"
+cmc: 6.0
+type_line: Creature — Human Wizard
+oracle_text: When Auratouched Mage enters the battlefield, search your library for
+  an Aura card that could enchant it. If Auratouched Mage is still on the battlefield,
+  put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura
+  card and put it into your hand. Then shuffle.
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f8943023-d6cf-4787-be3e-cb0d85636fb6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c7ffc6c-88be-4127-a673-fba8c1aa5fa1&unique=prints
+collector_number: G50
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Miracola
+artist_ids:
+- 9b465bde-3656-4495-ace4-af4ce29999ed
+illustration_id: 0570ae35-3305-4a68-a062-6f9685e61585
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 12886
+penny_rank: 9852
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Auratouched+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Auratouched+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Auratouched+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Auratouched+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Auratouched+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Auratouched+Mage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

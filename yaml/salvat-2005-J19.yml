@@ -1,0 +1,111 @@
+---
+object: card
+id: 951473f8-6925-4fe4-8595-ad4886282330
+oracle_id: 262bc269-3e70-46ae-b0a3-5f8030a6971a
+multiverse_ids: []
+tcgplayer_id: 261227
+name: Thallid Germinator
+printed_name: Germinador tálido
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/951473f8-6925-4fe4-8595-ad4886282330
+scryfall_uri: https://scryfall.com/card/psal/J19/es/germinador-t%C3%A1lido?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/5/951473f8-6925-4fe4-8595-ad4886282330.jpg?1562074393
+  normal: https://cards.scryfall.io/normal/front/9/5/951473f8-6925-4fe4-8595-ad4886282330.jpg?1562074393
+  large: https://cards.scryfall.io/large/front/9/5/951473f8-6925-4fe4-8595-ad4886282330.jpg?1562074393
+  png: https://cards.scryfall.io/png/front/9/5/951473f8-6925-4fe4-8595-ad4886282330.png?1562074393
+  art_crop: https://cards.scryfall.io/art_crop/front/9/5/951473f8-6925-4fe4-8595-ad4886282330.jpg?1562074393
+  border_crop: https://cards.scryfall.io/border_crop/front/9/5/951473f8-6925-4fe4-8595-ad4886282330.jpg?1562074393
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Fungus
+oracle_text: |-
+  At the beginning of your upkeep, put a spore counter on Thallid Germinator.
+  Remove three spore counters from Thallid Germinator: Create a 1/1 green Saproling creature token.
+  Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/951473f8-6925-4fe4-8595-ad4886282330/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A262bc269-3e70-46ae-b0a3-5f8030a6971a&unique=prints
+collector_number: J19
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Wänerstrand
+artist_ids:
+- c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b
+illustration_id: 4fd9bff4-cb43-4a78-94df-407a426d9bb7
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 7019
+penny_rank: 11646
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Thallid+Germinator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Thallid+Germinator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Thallid+Germinator
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261227?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thallid+Germinator&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thallid+Germinator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

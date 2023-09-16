@@ -1,0 +1,107 @@
+---
+object: card
+id: 7302619c-b202-493f-9e02-a831a08abc3f
+oracle_id: ca204b66-8d0c-431a-8d34-282f7c2d17da
+multiverse_ids: []
+tcgplayer_id: 261271
+name: Lightning Greaves
+printed_name: Schinieri dei Fulmini
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/7302619c-b202-493f-9e02-a831a08abc3f
+scryfall_uri: https://scryfall.com/card/psal/L2/it/schinieri-dei-fulmini?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/7302619c-b202-493f-9e02-a831a08abc3f.jpg?1562071262
+  normal: https://cards.scryfall.io/normal/front/7/3/7302619c-b202-493f-9e02-a831a08abc3f.jpg?1562071262
+  large: https://cards.scryfall.io/large/front/7/3/7302619c-b202-493f-9e02-a831a08abc3f.jpg?1562071262
+  png: https://cards.scryfall.io/png/front/7/3/7302619c-b202-493f-9e02-a831a08abc3f.png?1562071262
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/7302619c-b202-493f-9e02-a831a08abc3f.jpg?1562071262
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/7302619c-b202-493f-9e02-a831a08abc3f.jpg?1562071262
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+  Equip {0}
+colors: []
+color_identity: []
+keywords:
+- Equip
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7302619c-b202-493f-9e02-a831a08abc3f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aca204b66-8d0c-431a-8d34-282f7c2d17da&unique=prints
+collector_number: L2
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeremy Jarvis
+artist_ids:
+- b40ac320-89b4-4c51-a85f-4a4b63ae614e
+illustration_id: 10308440-8eee-4db0-8862-1ad72ada96a1
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 13
+penny_rank: 711
+prices:
+  usd: '18.99'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lightning+Greaves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lightning+Greaves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lightning+Greaves
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261271?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lightning+Greaves&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lightning+Greaves&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

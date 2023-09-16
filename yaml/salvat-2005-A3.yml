@@ -1,0 +1,106 @@
+---
+object: card
+id: 7b5f6ad7-791c-4730-8189-6122ceb27226
+oracle_id: 5b4b08a5-3af8-4c33-ab5e-7bee7f79e77a
+multiverse_ids: []
+tcgplayer_id: 258410
+name: Nocturnal Raid
+printed_name: Incursión nocturna
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/7b5f6ad7-791c-4730-8189-6122ceb27226
+scryfall_uri: https://scryfall.com/card/psal/A3/es/incursi%C3%B3n-nocturna?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/b/7b5f6ad7-791c-4730-8189-6122ceb27226.jpg?1562071778
+  normal: https://cards.scryfall.io/normal/front/7/b/7b5f6ad7-791c-4730-8189-6122ceb27226.jpg?1562071778
+  large: https://cards.scryfall.io/large/front/7/b/7b5f6ad7-791c-4730-8189-6122ceb27226.jpg?1562071778
+  png: https://cards.scryfall.io/png/front/7/b/7b5f6ad7-791c-4730-8189-6122ceb27226.png?1562071778
+  art_crop: https://cards.scryfall.io/art_crop/front/7/b/7b5f6ad7-791c-4730-8189-6122ceb27226.jpg?1562071778
+  border_crop: https://cards.scryfall.io/border_crop/front/7/b/7b5f6ad7-791c-4730-8189-6122ceb27226.jpg?1562071778
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Instant
+oracle_text: Black creatures get +2/+0 until end of turn.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7b5f6ad7-791c-4730-8189-6122ceb27226/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b4b08a5-3af8-4c33-ab5e-7bee7f79e77a&unique=prints
+collector_number: A3
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: 863cce6c-a237-45c8-b7f3-7840bda96773
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 24440
+penny_rank: 12569
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nocturnal+Raid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nocturnal+Raid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nocturnal+Raid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258410?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nocturnal+Raid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nocturnal+Raid&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

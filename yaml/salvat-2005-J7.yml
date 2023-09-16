@@ -1,0 +1,112 @@
+---
+object: card
+id: d7632087-65c1-480b-a878-131aff4262bd
+oracle_id: 481e3a30-fbe9-4ed3-a982-8a73f0dca33b
+multiverse_ids: []
+tcgplayer_id: 260980
+name: Thallid Shell-Dweller
+printed_name: Tálido morador de caparazón
+lang: es
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/d7632087-65c1-480b-a878-131aff4262bd
+scryfall_uri: https://scryfall.com/card/psal/J7/es/t%C3%A1lido-morador-de-caparaz%C3%B3n?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/7/d7632087-65c1-480b-a878-131aff4262bd.jpg?1562081616
+  normal: https://cards.scryfall.io/normal/front/d/7/d7632087-65c1-480b-a878-131aff4262bd.jpg?1562081616
+  large: https://cards.scryfall.io/large/front/d/7/d7632087-65c1-480b-a878-131aff4262bd.jpg?1562081616
+  png: https://cards.scryfall.io/png/front/d/7/d7632087-65c1-480b-a878-131aff4262bd.png?1562081616
+  art_crop: https://cards.scryfall.io/art_crop/front/d/7/d7632087-65c1-480b-a878-131aff4262bd.jpg?1562081616
+  border_crop: https://cards.scryfall.io/border_crop/front/d/7/d7632087-65c1-480b-a878-131aff4262bd.jpg?1562081616
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Fungus
+oracle_text: |-
+  Defender
+  At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.
+  Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 green Saproling creature token.
+power: '0'
+toughness: '5'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d7632087-65c1-480b-a878-131aff4262bd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A481e3a30-fbe9-4ed3-a982-8a73f0dca33b&unique=prints
+collector_number: J7
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 0a568f41-c7c1-497b-80b0-9fffd5e67a9b
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 6660
+penny_rank: 7372
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Thallid+Shell-Dweller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Thallid+Shell-Dweller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Thallid+Shell-Dweller
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/260980?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thallid+Shell-Dweller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thallid+Shell-Dweller&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

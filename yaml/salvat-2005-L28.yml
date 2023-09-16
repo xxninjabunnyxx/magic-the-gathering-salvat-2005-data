@@ -1,0 +1,106 @@
+---
+object: card
+id: 0cd4007c-eb51-4da0-b8df-38aae1482a5a
+oracle_id: a6a9776b-87f4-4a08-8074-d49fbbe417ae
+multiverse_ids: []
+tcgplayer_id: 261275
+name: Saltblast
+printed_name: Folata Salmastra
+lang: it
+released_at: '2005-08-22'
+uri: https://api.scryfall.com/cards/0cd4007c-eb51-4da0-b8df-38aae1482a5a
+scryfall_uri: https://scryfall.com/card/psal/L28/it/folata-salmastra?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/c/0cd4007c-eb51-4da0-b8df-38aae1482a5a.jpg?1562058579
+  normal: https://cards.scryfall.io/normal/front/0/c/0cd4007c-eb51-4da0-b8df-38aae1482a5a.jpg?1562058579
+  large: https://cards.scryfall.io/large/front/0/c/0cd4007c-eb51-4da0-b8df-38aae1482a5a.jpg?1562058579
+  png: https://cards.scryfall.io/png/front/0/c/0cd4007c-eb51-4da0-b8df-38aae1482a5a.png?1562058579
+  art_crop: https://cards.scryfall.io/art_crop/front/0/c/0cd4007c-eb51-4da0-b8df-38aae1482a5a.jpg?1562058579
+  border_crop: https://cards.scryfall.io/border_crop/front/0/c/0cd4007c-eb51-4da0-b8df-38aae1482a5a.jpg?1562058579
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Destroy target nonwhite permanent.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set: psal
+set_name: Salvat 2005
+set_type: box
+set_uri: https://api.scryfall.com/sets/1132e6a3-d93a-4ed1-8724-ad5e8e5a1d41
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psal?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0cd4007c-eb51-4da0-b8df-38aae1482a5a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6a9776b-87f4-4a08-8074-d49fbbe417ae&unique=prints
+collector_number: L28
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Paolo Parente
+artist_ids:
+- d48dd097-720d-476a-8722-6a02854ae28b
+illustration_id: b7d920be-d263-4bdd-bce3-812a2406defb
+border_color: white
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 20584
+penny_rank: 5973
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Saltblast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Saltblast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Saltblast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/261275?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Saltblast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Saltblast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
